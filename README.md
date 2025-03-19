@@ -1,4 +1,4 @@
-## 4. Practical Exercise: MLOps with MLFlow
+## Practical Exercise: MLOps with MLFlow
 
 This practical exercise is designed to give participants a comprehensive, hands-on understanding of essential MLOps concepts by using MLFlow within Google Colab.
 
@@ -18,4 +18,6 @@ This exercise closely aligns with the MLOps framework by covering key aspects su
 ### Requirements
 
 - Each student must have a computer.  
-- Students need both a Gmail account and an Ngrok account for full participation during the practical session.
+- Students need both a Gmail/Colab account and an Ngrok account for full participation during the practical session.
+### Exercise
+![image](https://github.com/user-attachments/assets/26f2a78e-8cf9-4083-adab-994453aecf52)
