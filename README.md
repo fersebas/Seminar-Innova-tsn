@@ -3,8 +3,7 @@
 This practical exercise is designed to give participants a comprehensive, hands-on understanding of essential MLOps concepts by using MLFlow within Google Colab.
 
 ### Exercise
-![https://github.com/user-attachments/assets/9dd04ab2-8fa1-4b1b-9371-c9694edc713a](https://colab.research.google.com/github/fersebas/Seminar-Innova-tsn/blob/main/2025_03_21_Practical_MLOps_Workshop_with_MLFlow.ipynb)
-
+[<img src="[path/to/image.png](https://github.com/user-attachments/assets/9dd04ab2-8fa1-4b1b-9371-c9694edc713a)">](https://colab.research.google.com/github/fersebas/Seminar-Innova-tsn/blob/main/2025_03_21_Practical_MLOps_Workshop_with_MLFlow.ipynb)
 ### Objectives
 - Create, configure, and manage machine learning experiments using MLFlow in Google Colab.  
 - Track, log, and analyze model performance metrics, hyperparameters, and artifacts.  
