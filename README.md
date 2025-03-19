@@ -8,6 +8,9 @@ This practical exercise is designed to give participants a comprehensive, hands-
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+![image](https://github.com/user-attachments/assets/a313807e-99e8-449a-b120-7eac29e3af07)
+
+
 ### Objectives
 - Create, configure, and manage machine learning experiments using MLFlow in Google Colab.  
 - Track, log, and analyze model performance metrics, hyperparameters, and artifacts.  
