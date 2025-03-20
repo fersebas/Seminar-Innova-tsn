@@ -3,11 +3,12 @@
 This practical exercise is designed to give participants a comprehensive, hands-on understanding of essential MLOps concepts by using MLFlow within Google Colab.
 
 ### Exercise
-
+1. Open Colab. 
 <a target="_blank" href="https://colab.research.google.com/github/fersebas/Seminar-Innova-tsn/blob/main/2025_03_21_Practical_MLOps_Workshop_with_MLFlow.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+2. Save a copy in YOUR drive.
 ![image](https://github.com/user-attachments/assets/a313807e-99e8-449a-b120-7eac29e3af07)
 
 
